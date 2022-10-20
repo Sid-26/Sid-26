@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sid-26
 - 👀 I’m interested in stuff 
-- 🌱 I’m currently learning python and stuff
+- 🌱 I’m currently learning python, c++, java and stuff
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me (u can't...yet)
 
