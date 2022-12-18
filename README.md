@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sid
+- 👋 Hi, I’m Sid (A Computer Science Student)
 - 👀 I’m interested in Systems Programming, Operating Systems, Compilers, Data Analysis, Games 
 - 🌱 I’m currently learning python, c++, java and rust
 - 💞️ I’m looking to collaborate 
