@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Siddhant (aka Sid). I am currently a computer science student at Ontario Tech University.<br>I am currently interning as a full-stack developer.<br>I want to break into cybersecurity and mainframe development.<br>I have a passion for learning new things and want to try OSS.
+Hey, I am Siddhant (aka Sid). I am currently a computer science student at Ontario Tech University.<br>I am currently interning as a full-stack developer.<br>I want to break into deep learning and AI through Computer Vision or Natural Language Processing.<br>I have a passion for learning new things and want to try OSS.
 
 
 ## 🌐 Socials:
